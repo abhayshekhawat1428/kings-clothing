@@ -5,12 +5,6 @@ const SHOP_DATA = [
     routeName: 'hats',
     items: [
       {
-        id: 1,
-        name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
-        price: 25
-      },
-      {
         id: 2,
         name: 'Blue Beanie',
         imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
@@ -61,7 +55,7 @@ const SHOP_DATA = [
     ]
   },
   {
-    id: 2,
+    id: 2222,
     title: 'Sneakers',
     routeName: 'sneakers',
     items: [
@@ -116,7 +110,7 @@ const SHOP_DATA = [
     ]
   },
   {
-    id: 3,
+    id: 333,
     title: 'Jackets',
     routeName: 'jackets',
     items: [
@@ -153,7 +147,7 @@ const SHOP_DATA = [
     ]
   },
   {
-    id: 4,
+    id: 334,
     title: 'Womens',
     routeName: 'womens',
     items: [
@@ -202,7 +196,7 @@ const SHOP_DATA = [
     ]
   },
   {
-    id: 5,
+    id: 335,
     title: 'Mens',
     routeName: 'mens',
     items: [
